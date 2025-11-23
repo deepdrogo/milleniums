@@ -10,7 +10,9 @@
 
 **A premium TRC20 token built for the next era of digital finance**
 
-[Documentation](#-documentation) • [Deployment](#-deployment) • [Security](#-security)
+[![Contract](https://img.shields.io/badge/Contract-TZ3q5UwBmKYdMoX8FeRPdkE78MeUSEt43i-blue?style=for-the-badge)](https://tronscan.org/#/token20/TZ3q5UwBmKYdMoX8FeRPdkE78MeUSEt43i)
+
+[Documentation](#-documentation) • [Deployment](#-deployment) • [Security](#-security) • [Contract Address](#-contract-addresses)
 
 </div>
 
@@ -152,10 +154,17 @@ contract.transferOwnership(newOwnerAddress)
 ## 🔍 Contract Addresses
 
 ### Mainnet
-> 🚧 Coming soon - Deploy your contract and add address here
+
+<div align="center">
+
+| Network | Contract Address | Explorer |
+|---------|------------------|----------|
+| **TRON Mainnet** | `TZ3q5UwBmKYdMoX8FeRPdkE78MeUSEt43i` | [View on Tronscan](https://tronscan.org/#/token20/TZ3q5UwBmKYdMoX8FeRPdkE78MeUSEt43i) |
+
+</div>
 
 ### Testnet (Shasta)
-> 🚧 Coming soon - Deploy your contract and add address here
+> 🧪 Not deployed on testnet - Mainnet only
 
 ---
 
