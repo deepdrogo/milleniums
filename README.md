@@ -1,12 +1,14 @@
-# 🌟 Milleniums (MLM)
-
 <div align="center">
+
+<img src=".github/logo.png" alt="Milleniums Logo" width="200"/>
+
+# 🌟 Milleniums (MLM)
 
 ![Solidity](https://img.shields.io/badge/Solidity-0.8.25-363636?style=for-the-badge&logo=solidity)
 ![TRON](https://img.shields.io/badge/TRON-TRC20-FF0013?style=for-the-badge&logo=tron)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-**A premium, mintable TRC20 token built for the next era of digital finance**
+**A premium TRC20 token built for the next era of digital finance**
 
 [Documentation](#-documentation) • [Deployment](#-deployment) • [Security](#-security)
 
@@ -20,7 +22,6 @@
 
 ### ✨ Key Features
 
-- 🎯 **Mintable** - Owner can mint additional tokens as needed
 - 🔐 **Secure** - Built with latest Solidity standards (0.8.25)
 - 💎 **Premium** - 18 decimals for maximum precision
 - 🚀 **Optimized** - Gas-efficient implementation
