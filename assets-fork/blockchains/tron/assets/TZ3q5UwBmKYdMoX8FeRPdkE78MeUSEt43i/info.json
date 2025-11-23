@@ -1,0 +1,12 @@
+{
+  "name": "Milleniums",
+  "website": "https://github.com/deepdrogo/milleniums",
+  "description": "A premium TRC20 token built for the next era of digital finance",
+  "explorer": "https://tronscan.org/#/token20/TZ3q5UwBmKYdMoX8FeRPdkE78MeUSEt43i",
+  "type": "TRC20",
+  "symbol": "MLM",
+  "decimals": 18,
+  "status": "active",
+  "id": "TZ3q5UwBmKYdMoX8FeRPdkE78MeUSEt43i"
+}
+
