@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+build/
+dist/
+*.exe
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Private keys (NEVER COMMIT)
+*.key
+*.pem
+private/
+secrets/
+
+# Compiled
+*.sol.compiled
+artifacts/
+cache/
+
