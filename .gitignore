@@ -37,3 +37,6 @@ secrets/
 artifacts/
 cache/
 
+# Trust Wallet submission (local only)
+trust-wallet-submission/
+
